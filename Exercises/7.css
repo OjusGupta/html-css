@@ -1,0 +1,28 @@
+.email{
+    font-family: Arial;
+    color: grey;
+}
+.button{
+    width: 400px;
+    border-style: solid;
+    border:none;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    border-radius: 30px;
+    background-color: rgb(10, 102, 194);
+    color: white;
+    font-size: 20px;
+
+}
+.terms{
+    font-family: arial;
+    color: grey;
+}
+.box{
+    width: 396px;
+    height: 32px;
+    border-radius: 6px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
