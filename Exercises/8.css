@@ -1,0 +1,49 @@
+.pickup-location{
+    width: 400px;
+    height: 55px;
+    border: none;
+    background-color: rgb(240, 240, 240);
+    font-size: 16px;
+    padding-left: 20px;
+    margin-bottom: 15px;
+}
+.destination{
+    width: 398px;
+    height: 55px;
+    padding-left: 20px;
+    font-size: 16px;
+    border: none;
+    background-color:rgb(240, 240, 240);
+    margin-right: 600px;
+}
+.request{
+    font-family: arial;
+    margin-top: 40px;
+    margin-right: 20px;
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 25px;
+    padding-left: 25px;
+    border-style: solid;
+    border: none;
+}
+
+.prompt{
+    font-family: arial;
+    font-size: 40px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.schedule{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border: none;
+    font-size: 16px;
+    font-style: bold;
+}
